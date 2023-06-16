@@ -2,7 +2,7 @@
 Empresa fictícia criada para disciplina de DESENVOLVIMENTO ÁGIL - AS63C - 2023 - 1.
 
 # Grupo
- - Luis Gabriel dos Santos
+ - Luiz Gabriel dos Santos
  - Sérgio Vitor Cavalcanti Trevisan
 
 # Projeto
